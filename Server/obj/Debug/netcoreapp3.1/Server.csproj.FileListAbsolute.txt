@@ -26,4 +26,3 @@ C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistema de Email\Server\bin\Debug\netc
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistema de Email\Server\bin\Debug\netcoreapp3.1\Application.pdb
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistema de Email\Server\bin\Debug\netcoreapp3.1\Persistence.dll
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistema de Email\Server\bin\Debug\netcoreapp3.1\Persistence.pdb
-C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistema de Email\Server\bin\Debug\netcoreapp3.1\emails.json
