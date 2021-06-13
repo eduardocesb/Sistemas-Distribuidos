@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj"
             }
           }
         }

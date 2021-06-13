@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,14 +135,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj"
+            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Application\\Application.csproj"
             },
-            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Persistence\\Persistence.csproj"
             }
           }
         }

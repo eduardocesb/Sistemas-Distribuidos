@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+            "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Domain\\Domain.csproj"
             }
           }
         }
