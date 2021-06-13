@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2iIWG75//uTBdYF0bkaozQ3T1QTyuf4ZQM3dT4q7PDl+sLY9xT6+UpydSkwg+A46Oc1/XaBa9iKbqMeMH8Dbfg==",
+  "dgSpecHash": "JInBwrynm7a+Eq5sDBOZ2jiJPymkZeF7j02HusLFaBrtsYgHhQDOIqtFkZApYFcosDE53pef1TBIsYB799s4vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistemas-Distribuidos\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
