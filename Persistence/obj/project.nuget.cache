@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHNEghgc6guClSwBBxlWysrJuVkmUHxlMHYumUdQr17zHlIGCFeC8MigDNV76k35N3yNohhR2OwLQmKJj1kjQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

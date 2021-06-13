@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/vtexlab": {},
+          "https://www.myget.org/F/vtexlab/api/v2": {},
+          "https://www.myget.org/F/vtexlab2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/vtexlab": {},
+          "https://www.myget.org/F/vtexlab/api/v2": {},
+          "https://www.myget.org/F/vtexlab2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/vtexlab": {},
+          "https://www.myget.org/F/vtexlab/api/v2": {},
+          "https://www.myget.org/F/vtexlab2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/vtexlab": {},
+          "https://www.myget.org/F/vtexlab/api/v2": {},
+          "https://www.myget.org/F/vtexlab2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Carlos Eduardo\\Documents\\UFPI\\SD\\Sistema de Email\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
