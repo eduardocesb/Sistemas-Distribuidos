@@ -54,3 +54,4 @@ C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistemas-Distribuidos\Server\obj\Debug
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistemas-Distribuidos\Server\obj\Debug\netcoreapp3.1\Server.dll
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistemas-Distribuidos\Server\obj\Debug\netcoreapp3.1\Server.pdb
 C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistemas-Distribuidos\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\Documents\UFPI\SD\Sistemas-Distribuidos\Server\bin\Debug\netcoreapp3.1\emails.json
