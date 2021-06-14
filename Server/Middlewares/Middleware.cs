@@ -149,7 +149,7 @@ namespace Server.Middlewares
             }
             else
             {
-                body = new { Message = "Me ajuda a te ajudar!" };
+                body = new { Message = "Help me to help you!" };
                 statusCode = HttpStatusCode.NotFound;
             }
 
@@ -188,7 +188,7 @@ namespace Server.Middlewares
             }
             else
             {
-                body = new { Message = "Me ajuda a te ajudar!" };
+                body = new { Message = "Help me to help you!" };
                 statusCode = HttpStatusCode.BadRequest;
             }
 
