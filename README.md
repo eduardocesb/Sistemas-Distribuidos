@@ -4,7 +4,7 @@
 
 The Server and the Client is running in `.NET 5.0`.
 
-#### Installing `.NET 5.0` on Ubuntu 20.04
+### Installing `.NET 5.0` on Ubuntu 20.04
 
 ```bash
 sudo apt-get update
@@ -28,7 +28,7 @@ dotnet run
 
 By default, the server will run at the following address: `localhost:5000`
 
-After the server run, you can do some `HTTP Requests`, to see more, visit the Postam Collection
+After the server run, you can do some `HTTP Requests`, to see more, visit the Postman Collection
 
 ### Running the Client
 
